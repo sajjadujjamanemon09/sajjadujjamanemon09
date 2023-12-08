@@ -33,6 +33,21 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,materialui,mongodb,netlify,nextjs,nodejs,react,tailwind,vercel,vscode,vite," />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=materialui,mongodb,netlify,nextjs,nodejs" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,vercel" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vite" />
   </a>
 </p>
