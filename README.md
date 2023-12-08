@@ -27,3 +27,12 @@ Here are some ideas to get you started:
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sajjadujjamanemon09&theme=transparent&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak">
   </a>
 </p>
+
+
+### Technology That I know
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,materialui,mongodb,netlify,nextjs,nodejs,react,tailwind,vercel,vscode,vite," />
+  </a>
+</p>
