@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-## 📊 Current Stats 
+## 📊 Real-time Statistics
 <br/>
 
 <p align="center">
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## 🖥️ Technology That I know
+## 🖥️ Some of my known Technological Tools
 <br/>
 
 <p align="center">
