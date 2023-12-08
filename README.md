@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-### Current Stats
+## 📊 Current Stats 
 <br/>
 
 <p align="center">
@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 </p>
 
 
-### Technology That I know
+## 🖥️ Technology That I know
+<br/>
 
 <p align="center">
   <a href="https://skillicons.dev">
