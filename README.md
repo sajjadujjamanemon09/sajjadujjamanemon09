@@ -1,6 +1,10 @@
 ![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/BannerImage/Screenshot%202023-12-09%20003742.png "San Juan Mountains")
 
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadujjamanemon09&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadujjamanemon09" /> </p>
 
+<h1 align="center">Hi 👋, I'm Sajjaduj Jaman Emon</h1>
+<h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
 
@@ -52,3 +56,22 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=vscode,vite" />
   </a>
 </p>
+
+
+
+## 📖 Language
+<br/>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadujjamanemon09&show_icons=true&locale=en&layout=compact" alt="sajjadujjamanemon09" /></p>
+
+
+## 💎 Trophies
+<br/>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadujjamanemon09" alt="sajjadujjamanemon09" /></a> </p>
+
+
+
+
+
+
