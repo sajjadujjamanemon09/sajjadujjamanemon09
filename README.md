@@ -76,15 +76,16 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-    <a href="https://www.flickr.com">
-        <img width="" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Twitter-Logo-2010-2012.png" alt="Twitter Logo">
-    </a>
-    <a href="https://www.flickr.com">
-        <img width="" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/OIP.jpg" alt="Image 2">
-    </a>
-    <a href="https://www.flickr.com">
+    <a href="https://www.linkedin.com/in/md-sajjaduj-jaman09/">
         <img width="" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Linkedin-Logo.png" alt="LinkedIn Logo">
     </a>
+    <a href="https://twitter.com/SajjadujEmon09">
+        <img width="" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Twitter-Logo-2010-2012.png" alt="Twitter Logo">
+    </a>
+    <a href="https://www.facebook.com/sajjadujjamanemon09/">
+        <img width="" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Facebook-Logo.png" alt="Image 2">
+    </a>
+
 </div>
 
 
