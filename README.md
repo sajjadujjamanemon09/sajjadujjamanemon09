@@ -60,18 +60,6 @@ Here are some ideas to get you started:
 
 
 
-## 📖 Language
-<br/>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadujjamanemon09&show_icons=true&locale=en&layout=compact" alt="sajjadujjamanemon09" /></p>
-
-
-## 💎 My Trophies
-<br/>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadujjamanemon09" alt="sajjadujjamanemon09" /></a> </p>
-
-
 ## 📭 Contact with me
 <br/>
 
@@ -87,6 +75,20 @@ Here are some ideas to get you started:
     </a>
 
 </div>
+
+
+
+
+## 📖 Language
+<br/>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajjadujjamanemon09&show_icons=true&locale=en&layout=compact" alt="sajjadujjamanemon09" /></p>
+
+
+## 💎 My Trophies
+<br/>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajjadujjamanemon09" alt="sajjadujjamanemon09" /></a> </p>
 
 
 
