@@ -75,12 +75,12 @@ Here are some ideas to get you started:
 ## 📭 Contact with me
 <br/>
 
-<div align="center">
+<div align="center" style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/md-sajjaduj-jaman09/">
-        <img width="" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Linkedin-Logo.png" alt="LinkedIn Logo">
+        <img style="margin-right: 20px;" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Linkedin-Logo.png" alt="LinkedIn Logo">
     </a>
     <a href="https://twitter.com/SajjadujEmon09">
-        <img width="" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Twitter-Logo-2010-2012.png" alt="Twitter Logo">
+        <img style="margin-right: 20px;" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Twitter-Logo-2010-2012.png" alt="Twitter Logo">
     </a>
     <a href="https://www.facebook.com/sajjadujjamanemon09/">
         <img width="" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Facebook-Logo.png" alt="Image 2">
