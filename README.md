@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: Exciting web development projects that involve innovative designs and user experiences.
 - 🤔 I’m looking for help with: Optimizing website performance and implementing best practices for front-end development.
 - 💬 Ask me about: HTML, CSS, JavaScript, and front-end frameworks.
-- 📫 How to reach me: You can connect with me on at [LinkedIn]("https://www.linkedin.com/in/md-sajjaduj-jaman09") or  reach me via [Email]("www.mdsajjadujjaman09@gmail.com") 
+- 📫 How to reach me: You can connect with me on at [LinkedIn]("https://www.linkedin.com/in/md-sajjaduj-jaman09")
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I enjoy playing the guitar in my free time.
 
