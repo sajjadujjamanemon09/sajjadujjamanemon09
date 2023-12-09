@@ -92,11 +92,15 @@ Here are some ideas to get you started:
 
 
 
-# ➤ Some of my Projects & their feature
+# 📌 Some of my Projects & their feature
 
 ## ⦿ Project Name :- News 12 Paper
 
-    Project Live Link :- (https://assignment-12-c8954.web.app)
+📎 Project Live Link :- (https://assignment-12-c8954.web.app)
+
+📎 Client Side Link  :-  (https://github.com/sajjadujjamanemon09/News12Paper-clientA12)
+
+📎 Server Side Link  :-  (https://github.com/sajjadujjamanemon09/News12Paper-serverA12)
 
 Here added some bullet points of this Project:
 
@@ -126,8 +130,11 @@ Successful login results in a alert indicating a successful login, while incorre
 
 ## ⦿ Project Name        :-    HomeSwap Hub      
 
-    Project Live Link   :-    (https://assignment-11-abaf2.web.app/)
+📎 Project Live Link   :-    (https://assignment-11-abaf2.web.app/)
 
+📎 Client Side Link  :-  (https://github.com/sajjadujjamanemon09/HomeSwap-Hub-clientA11)
+
+📎 Server Side Link  :-  (https://github.com/sajjadujjamanemon09/HomeSwap-Hub-serverA11)
 
 
 Here added some bullet points of this Project:
@@ -158,7 +165,11 @@ Here added some bullet points of this Project:
 
 ## ⦿ Project Name        :-    Tech Fusion X       
 
-    Project Live Link   :-    (https://assignment-10-8538b.web.app/)
+📎 Project Live Link   :-    (https://assignment-10-8538b.web.app/)
+
+📎 Client Side Link  :-  (https://github.com/sajjadujjamanemon09/Tech-Fusion-clientA10)
+
+📎 Server Side Link  :-  (https://github.com/sajjadujjamanemon09/Tech-Fusion-serverA10)
 
 
 
