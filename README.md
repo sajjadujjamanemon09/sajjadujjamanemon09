@@ -165,7 +165,7 @@ Here added some bullet points of this Project:
 
 ## ⦿ Project Name        :-    Tech Fusion X       
 
-⚙️ Project Live Link   :-    (https://assignment-10-8538b.web.app/)
+⚙️ Project Live [Link 🔗](https://assignment-10-8538b.web.app/)
 
 ⚙️ Client Side Link  :-  (https://github.com/sajjadujjamanemon09/Tech-Fusion-clientA10)
 
