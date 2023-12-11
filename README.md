@@ -1,10 +1,10 @@
 
-[![Sajjaduj Jaman Emon](https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/BannerImage/GitBanner.gif "Here this link you reach me out")](https://www.linkedin.com/in/md-sajjaduj-jaman09)
+[![Sajjaduj Jaman Emon](https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/BannerImage/GitBanner.gif "Here this link you reach me out")](https://www.linkedin.com/in/sajjaduj-jaman09)
 
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajjadujjamanemon09&label=Profile%20views&color=0e75b6&style=flat" alt="sajjadujjamanemon09" /> </p>
 
- <h1 align="center">Hi 👋, I'm Sajjaduj Jaman Emon</h1>
+ <h1 align="center">Hi 👋, I'm Sajjaduj Jaman</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: Exciting web development projects that involve innovative designs and user experiences.
 - 🤔 I’m looking for help with: Optimizing website performance and implementing best practices for front-end development.
 - 💬 Ask me about: HTML, CSS, JavaScript, and front-end frameworks.
-- 📫 How to reach me: You can connect with me on at [LinkedIn](https://www.linkedin.com/in/md-sajjaduj-jaman09/) or reach me on mdsajjadujjaman09@gmail.com
+- 📫 How to reach me: You can connect with me on at [LinkedIn](https://www.linkedin.com/in/sajjaduj-jaman09/) or reach me on sajjaduj.jaman09@gmail.com
 - 😄 Pronouns: He/him.
 - ⚡ Fun fact: I enjoy playing the guitar in my free time.
 
@@ -64,13 +64,13 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center" style="margin-top: 20px;">
-    <a href="https://www.linkedin.com/in/md-sajjaduj-jaman09/">
+    <a href="https://www.linkedin.com/in/sajjaduj-jaman09/">
         <img style="margin-right: 20px;" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Linkedin-Logo.png" alt="LinkedIn Logo">
     </a>
-    <a href="https://twitter.com/SajjadujEmon09">
+    <a href="https://twitter.com/sajjadujjaman09">
         <img style="margin-right: 20px;" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Twitter-Logo-2010-2012.png" alt="Twitter Logo">
     </a>
-    <a href="https://www.facebook.com/sajjadujjamanemon09/">
+    <a href="https://www.facebook.com/sajjaduj.jaman09/">
         <img width="" height="100" src="https://raw.githubusercontent.com/sajjadujjamanemon09/sajjadujjamanemon09/main/Assets/SocialLogo/Facebook-Logo.png" alt="Image 2">
     </a>
 
